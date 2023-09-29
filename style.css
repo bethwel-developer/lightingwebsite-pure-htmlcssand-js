@@ -32,10 +32,7 @@ body{
   padding: 3px 35px;
   border-radius: 20px;
   background-color: #e59400;
-  border-color: black;
-
-  
- 
+  border-color: black; 
 }
 
 .findyourstyle-button{
@@ -46,12 +43,6 @@ body{
   margin-top: 60px;
   
 }
-
-
-
-
-
-
 
 
 button:hover{
